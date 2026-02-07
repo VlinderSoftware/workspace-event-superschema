@@ -1,15 +1,20 @@
 [submodule "python-event-superschema"]
 	path = python-event-superschema
 	url = https://github.com/VlinderSoftware/python-event-superschema.git
+	branch = dev
 [submodule "cpp-event-superschema"]
 	path = cpp-event-superschema
 	url = https://github.com/VlinderSoftware/cpp-event-superschema.git
+	branch = dev
 [submodule "cs-event-superschema"]
 	path = cs-event-superschema
 	url = https://github.com/VlinderSoftware/cs-event-superschema.git
+	branch = dev
 [submodule "node-event-superschema"]
 	path = node-event-superschema
 	url = https://github.com/VlinderSoftware/node-event-superschema.git
+	branch = dev
 [submodule "paper-event-superschema"]
 	path = paper-event-superschema
 	url = https://github.com/VlinderSoftware/paper-event-superschema.git
+	branch = dev
